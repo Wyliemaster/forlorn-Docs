@@ -4,4 +4,4 @@ Forlorn is a game which was developed by Robert Topala, the Creator of well know
 
 ## Is there a way to play the game?
 
-As of right now, no. The game was unfinished and was scrapped shortly adter the [Swedish Game Awards](#)
+As of right now, no. The game was unfinished and was scrapped shortly after the [Swedish Game Awardshttps://www.gameawards.se/
