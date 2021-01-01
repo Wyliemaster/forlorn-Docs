@@ -1,1 +1,0 @@
-Here is all known information in regards to Forlorn, a game developed by RuneDigitalGames which includes the well known developer: Robert Topala
