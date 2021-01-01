@@ -1,0 +1,1 @@
+A bunch of random files that i haven't organised, this folder contains interviews and a few sources to things i found

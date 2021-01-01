@@ -1,0 +1,1 @@
+These are the thumbnails for the videos that were on the official RuneDigital YouTube channel. saved in case something happens to the channel
