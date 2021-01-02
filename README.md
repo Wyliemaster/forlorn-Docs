@@ -4,4 +4,4 @@ Forlorn is a game on IOS which was developed by Robert Topala, the Creator of we
 
 ## Is there a way to play the game?
 
-As of right now, no. The game was unfinished and was scrapped shortly after being entered into the [Swedish Game Awards](https://www.gameawards.se/) however, there is quite a bit on information regarding the game that is known from videos, interviews and a few other sources
+As of right now, no. The game was unfinished and was scrapped shortly after being entered into the [Swedish Game Awards](https://www.gameawards.se/) however, there is quite a bit on information regarding the game that is known from videos, interviews and a few other sources.
