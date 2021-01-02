@@ -9,10 +9,10 @@ Forlorn had quite a lot of good quality assets, only a few of them have been reu
 
 Currently being used in Geometry Dash
 
-![fire](https://raw.githubusercontent.com/Wyliemaster/forlorn-Docs/main/Reused%20assets/Fire_01_looped_001.png?token=APAH4RJYH75AN45CT4R25BS77HSKI)
+![fire](https://raw.githubusercontent.com/Wyliemaster/forlorn-Docs/main/Reused%20assets/assets/Fire_01_looped_001.png)
 
 ### game001Sheet.png
 
 Not currently in Geometry dash but was found in the assets of a Geometry Dash 2.2 leak
 
-![Platformer Mode](https://raw.githubusercontent.com/Wyliemaster/forlorn-Docs/main/Reused%20assets/game001Sheet-hd.png?token=APAH4RMX7DPSCQSE74MLHLS77HSRC)
+![Platformer Mode](https://raw.githubusercontent.com/Wyliemaster/forlorn-Docs/main/Reused%20assets/game001Sheet-hd.png)
