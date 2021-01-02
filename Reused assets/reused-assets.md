@@ -15,4 +15,4 @@ Currently being used in Geometry Dash
 
 Not currently in Geometry dash but was found in the assets of a Geometry Dash 2.2 leak
 
-![Platformer Mode](https://raw.githubusercontent.com/Wyliemaster/forlorn-Docs/main/Reused%20assets/game001Sheet-hd.png)
+![Platformer Mode](https://raw.githubusercontent.com/Wyliemaster/forlorn-Docs/main/Reused%20assets/assets/game001Sheet-hd.png)
