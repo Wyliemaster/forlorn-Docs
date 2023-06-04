@@ -1,5 +1,7 @@
 # Concept Art
 
+Thanks to the [Wayback Machine](http://web.archive.org/web/20140406001601/http://gameawards.se:80/competition_entries/714), We have been able to preserve some concept art for Forlorn
+
 ## App Icon
 
 In the context section for `Character Evoltion`, A thumbnail of the character is shown in the context section. It is believed that this is the App Icon for Forlorn
