@@ -10,4 +10,6 @@ As of right now, no. The game was unfinished and was scrapped shortly after bein
 
 ![Forlorn-dead2.png](https://raw.githubusercontent.com/Wyliemaster/forlorn-Docs/main/misc/misc-images/forlorn-dead2.PNG)
 
-Although it is currently impossible to play the game, there is quite a bit on information regarding the game that is known from videos, interviews and a few other sources.
+~~Although it is currently impossible to play the game, there is quite a bit on information regarding the game that is known from videos, interviews and a few other sources.~~
+
+on December 17th, an IPA for Forlorn was leaked. This project will be upated in the near future to document findings from the IPA
